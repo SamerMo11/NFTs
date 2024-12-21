@@ -17,4 +17,15 @@ An NFTs e-commerce platform with a fully responsive design and multiple features
 
 - **🎯 Custom-Built Slider:** The slider is built using JavaScript only, without any external libraries, providing a smooth and flexible experience.
 
-- *⚡️ Dynamic Element Creation:** Repeated elements are dynamically created using JavaScript, without the need to duplicate HTML code.
+- **⚡️ Dynamic Element Creation:** Repeated elements are dynamically created using JavaScript, without the need to duplicate HTML code.
+
+---
+
+## 🌟 Website Used Languages :
+
+- **HTML5.**
+  
+- **CSS3.**
+  
+- **JavaScript.**
+
