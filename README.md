@@ -6,7 +6,7 @@ Whether you're an NFT collector or investor, this is the perfect platform for yo
 
 [WebPage Live Preview](https://samermo11.github.io/NFTs/)  
 
-## 🌟 Website Features :
+## 🌟 WebPage Features :
 
 - **🛒 Add to Cart:** Easily purchase your favorite NFTs and add them to the cart with automatic total price calculation.
 
@@ -24,7 +24,7 @@ Whether you're an NFT collector or investor, this is the perfect platform for yo
 
 ---
 
-## 🌟 Website Used Languages :
+## 🌟 WebPage Used Languages :
 
 - **HTML5.**
   
