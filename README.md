@@ -1,10 +1,10 @@
-# NFTs E-commerce Website! 🎉💎
+# NFTs E-commerce WebPage! 🎉💎
 <p align="left">
 An NFTs e-commerce platform with a fully responsive design and multiple features to offer a seamless and complete shopping experience!
 Whether you're an NFT collector or investor, this is the perfect platform for you.
 </p>
 
-[Live Preview](https://samermo11.github.io/NFTs/)  
+[WebPage Live Preview](https://samermo11.github.io/NFTs/)  
 
 ## 🌟 Website Features :
 
@@ -32,3 +32,6 @@ Whether you're an NFT collector or investor, this is the perfect platform for yo
   
 - **JavaScript.**
 
+<p align="left">
+🚀 Join us now and start your journey in the NFT world through this carefully built platform designed to deliver the best user experience.
+</p>
